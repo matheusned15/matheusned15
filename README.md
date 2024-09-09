@@ -16,7 +16,6 @@
 - 💪Work out 
 - [🎧](https://emojipedia.org/headphone/)Music 
 - [🏃](https://emojipedia.org/person-running/) Run
-- [💤](https://emojipedia.org/zzz/) Sleep
 - [👨🏼‍💻](https://emojipedia.org/man-technologist-medium-light-skin-tone/) Coding
 
 ##
