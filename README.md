@@ -1,7 +1,3 @@
-<p>
-   <img src="https://i.ibb.co/6vCHYkc/banner-matheus.png" alt="Matheus Ned banner" border="0" width="100%">
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/matheusned/">LinkedIn</a> •
   <a href="https://github.com/matheusned15">GitHub</a> •
